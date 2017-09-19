@@ -1,0 +1,18 @@
+.nav-bar{
+    background: #548554; 
+}
+.nav-bar-tabs{
+    height: 50px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 13px 15px;
+    font-size: 16px;
+    text-transform:capitalize;
+}
+li:hover{
+    background: #41AA41;
+    color: #fff;
+    cursor: pointer;
+}

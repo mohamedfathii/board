@@ -2,8 +2,27 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "description": "holaa shit",
+      "avatar": "http://www.qatarliving.com/sites/all/themes/qatarliving_v3/images/avatar.jpeg",
+      "like":5
+    },
+    {
+      "id": 2,
+      "description": "lorem ape nsdf asdf",
+      "avatar": "http://www.qatarliving.com/sites/all/themes/qatarliving_v3/images/avatar.jpeg",
+      "like":120
+    },
+    {
+      "id": 3,
+      "description": "hello from json server",
+      "avatar": "http://www.qatarliving.com/sites/all/themes/qatarliving_v3/images/avatar.jpeg",
+      "like":5
+    },
+    {
+      "id": 4,
+      "description": "json server say hello",
+      "avatar": "http://www.qatarliving.com/sites/all/themes/qatarliving_v3/images/avatar.jpeg",
+      "like":120
     }
   ],
   "comments": [

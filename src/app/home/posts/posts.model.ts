@@ -1,5 +1,6 @@
 export class PostsList {
     id:number;
-    title:string;
-    author:string;
+    description:string;
+    avatar:URL;
+    like:number;
 }
